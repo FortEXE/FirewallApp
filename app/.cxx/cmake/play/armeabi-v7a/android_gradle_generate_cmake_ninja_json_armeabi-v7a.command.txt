@@ -1,0 +1,16 @@
+Executable : D:\Users\lenovo\AppData\Local\Android\sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HC:\Users\lenovo\Desktop\NetGuard\app
+-BC:\Users\lenovo\Desktop\NetGuard\app\.cxx\cmake\play\armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-22
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\lenovo\Desktop\NetGuard\app\build\intermediates\cmake\play\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=D:\Users\lenovo\AppData\Local\Android\ndk\android-ndk-r20
+-DCMAKE_CXX_FLAGS=
+-DCMAKE_TOOLCHAIN_FILE=D:\Users\lenovo\AppData\Local\Android\ndk\android-ndk-r20\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\Users\lenovo\AppData\Local\Android\sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+-DANDROID_PLATFORM=android-22
+jvmArgs : 
+

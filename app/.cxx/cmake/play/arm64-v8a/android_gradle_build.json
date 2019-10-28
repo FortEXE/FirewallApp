@@ -1,0 +1,92 @@
+
+{
+	"buildFiles" : [ "C:/Users/lenovo/Desktop/NetGuard/app/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"D:\\Users\\lenovo\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\lenovo\\Desktop\\NetGuard\\app\\.cxx\\cmake\\play\\arm64-v8a --target clean"
+	],
+	"libraries" : 
+	{
+		"netguard-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "netguard",
+			"buildCommand" : "D:\\Users\\lenovo\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\lenovo\\Desktop\\NetGuard\\app\\.cxx\\cmake\\play\\arm64-v8a --target netguard",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android22 --gcc-toolchain=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnetguard_EXPORTS -I..\\..\\..\\..\\src\\main\\jni\\netguard  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/Users/lenovo/Desktop/NetGuard/app/src/main/jni/netguard/netguard.c",
+					"workingDirectory" : "C:/Users/lenovo/Desktop/NetGuard/app/.cxx/cmake/play/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android22 --gcc-toolchain=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnetguard_EXPORTS -I..\\..\\..\\..\\src\\main\\jni\\netguard  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/Users/lenovo/Desktop/NetGuard/app/src/main/jni/netguard/session.c",
+					"workingDirectory" : "C:/Users/lenovo/Desktop/NetGuard/app/.cxx/cmake/play/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android22 --gcc-toolchain=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnetguard_EXPORTS -I..\\..\\..\\..\\src\\main\\jni\\netguard  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/Users/lenovo/Desktop/NetGuard/app/src/main/jni/netguard/ip.c",
+					"workingDirectory" : "C:/Users/lenovo/Desktop/NetGuard/app/.cxx/cmake/play/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android22 --gcc-toolchain=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnetguard_EXPORTS -I..\\..\\..\\..\\src\\main\\jni\\netguard  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/Users/lenovo/Desktop/NetGuard/app/src/main/jni/netguard/tcp.c",
+					"workingDirectory" : "C:/Users/lenovo/Desktop/NetGuard/app/.cxx/cmake/play/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android22 --gcc-toolchain=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnetguard_EXPORTS -I..\\..\\..\\..\\src\\main\\jni\\netguard  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/Users/lenovo/Desktop/NetGuard/app/src/main/jni/netguard/udp.c",
+					"workingDirectory" : "C:/Users/lenovo/Desktop/NetGuard/app/.cxx/cmake/play/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android22 --gcc-toolchain=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnetguard_EXPORTS -I..\\..\\..\\..\\src\\main\\jni\\netguard  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/Users/lenovo/Desktop/NetGuard/app/src/main/jni/netguard/icmp.c",
+					"workingDirectory" : "C:/Users/lenovo/Desktop/NetGuard/app/.cxx/cmake/play/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android22 --gcc-toolchain=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnetguard_EXPORTS -I..\\..\\..\\..\\src\\main\\jni\\netguard  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/Users/lenovo/Desktop/NetGuard/app/src/main/jni/netguard/dns.c",
+					"workingDirectory" : "C:/Users/lenovo/Desktop/NetGuard/app/.cxx/cmake/play/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android22 --gcc-toolchain=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnetguard_EXPORTS -I..\\..\\..\\..\\src\\main\\jni\\netguard  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/Users/lenovo/Desktop/NetGuard/app/src/main/jni/netguard/dhcp.c",
+					"workingDirectory" : "C:/Users/lenovo/Desktop/NetGuard/app/.cxx/cmake/play/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android22 --gcc-toolchain=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnetguard_EXPORTS -I..\\..\\..\\..\\src\\main\\jni\\netguard  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/Users/lenovo/Desktop/NetGuard/app/src/main/jni/netguard/pcap.c",
+					"workingDirectory" : "C:/Users/lenovo/Desktop/NetGuard/app/.cxx/cmake/play/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android22 --gcc-toolchain=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnetguard_EXPORTS -I..\\..\\..\\..\\src\\main\\jni\\netguard  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/Users/lenovo/Desktop/NetGuard/app/src/main/jni/netguard/util.c",
+					"workingDirectory" : "C:/Users/lenovo/Desktop/NetGuard/app/.cxx/cmake/play/arm64-v8a"
+				}
+			],
+			"output" : "C:/Users/lenovo/Desktop/NetGuard/app/build/intermediates/cmake/play/obj/arm64-v8a/libnetguard.so",
+			"toolchain" : "101966273"
+		}
+	},
+	"toolchains" : 
+	{
+		"101966273" : 
+		{
+			"cCompilerExecutable" : "D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/Users/lenovo/AppData/Local/Android/ndk/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

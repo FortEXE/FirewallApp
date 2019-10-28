@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "C:\\Users\\lenovo\\Desktop\\NetGuard\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Users\\lenovo\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\lenovo\\Desktop\\NetGuard\\app\\.cxx\\cmake\\play\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "netguard-Release-armeabi-v7a": {
+      "artifactName": "netguard",
+      "buildCommand": "D:\\Users\\lenovo\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\lenovo\\Desktop\\NetGuard\\app\\.cxx\\cmake\\play\\armeabi-v7a --target netguard",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\lenovo\\Desktop\\NetGuard\\app\\build\\intermediates\\cmake\\play\\obj\\armeabi-v7a\\libnetguard.so"
+    }
+  }
+}

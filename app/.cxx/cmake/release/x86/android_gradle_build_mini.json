@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "C:\\Users\\lenovo\\Desktop\\NetGuard\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Users\\lenovo\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\lenovo\\Desktop\\NetGuard\\app\\.cxx\\cmake\\release\\x86 --target clean"
+  ],
+  "libraries": {
+    "netguard-Release-x86": {
+      "artifactName": "netguard",
+      "buildCommand": "D:\\Users\\lenovo\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\lenovo\\Desktop\\NetGuard\\app\\.cxx\\cmake\\release\\x86 --target netguard",
+      "abi": "x86",
+      "output": "C:\\Users\\lenovo\\Desktop\\NetGuard\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libnetguard.so"
+    }
+  }
+}
