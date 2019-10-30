@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "eu.faircode.netguard"
-        versionName = "2.266"
+        versionName = "1.0.0"
         minSdkVersion 22
         targetSdkVersion 29
         //noinspection HighAppVersionCode

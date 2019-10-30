@@ -5,7 +5,6 @@
       "sdkFolder": "D:\\Users\\lenovo\\AppData\\Local\\Android\\sdk",
       "isNativeCompilerSettingsCacheEnabled": false,
       "isBuildOnlyTargetAbiEnabled": true,
-      "ideBuildTargetAbi": "armeabi-v7a,armeabi",
       "splitsAbiFilterSet": [],
       "intermediatesFolder": "C:\\Users\\lenovo\\Desktop\\NetGuard\\app\\build\\intermediates",
       "gradleModulePathName": ":app",
@@ -44,7 +43,10 @@
     "gradleBuildOutputFolder": "C:\\Users\\lenovo\\Desktop\\NetGuard\\app\\.cxx\\cxx\\debug",
     "isDebuggableEnabled": true,
     "validAbiList": [
-      "ARMEABI_V7A"
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
     ],
     "buildTargetSet": []
   },
